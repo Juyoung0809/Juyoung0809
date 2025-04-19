@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @Juyoung0809
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 🍀 안녕하세요
 
-<!---
-Juyoung0809/Juyoung0809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Spring 공부 중인 개발자입니다.
+
+---
+
+
+## 🛠️ Skills
+
+| 백엔드 | 프론트엔드 | 그 외 |
+|:--:|:--:|:--:|
+| Java ☕ | React ⚛️ | Git / GitHub 🐙 |
+| Spring Boot 🌱 | HTML/CSS 🎨 | MySQL 🐬 |
+| JavaScript ✨ |
+
+---
+
+## 📫 Contact
+
+- 📧 russeldestiny1234@gmail.com  
+- 💬 Discord: songjuyoung0809
