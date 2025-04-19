@@ -9,9 +9,8 @@ Spring 공부 중인 개발자입니다.
 
 | 백엔드 | 프론트엔드 | 그 외 |
 |:--:|:--:|:--:|
-| Java ☕ | React ⚛️ | Git / GitHub 🐙 |
-| Spring Boot 🌱 | HTML/CSS 🎨 | MySQL 🐬 |
-| JavaScript ✨ |
+| Spring Boot 🌱 | React ⚛️ | Git / GitHub 🐙 |
+| JavaScript ✨ |  | MySQL 🐬 |
 
 ---
 
