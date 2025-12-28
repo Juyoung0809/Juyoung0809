@@ -7,9 +7,9 @@ Spring Boot 공부 중입니다.
 
 ## 🛠️ Skills
 
-| 백엔드 | 프론트엔드 | 그 외 |
-|:--:|:--:|:--:|
-| Spring Boot 🌱 | React ⚛️ | Git / GitHub 🐙 |
+| 백엔드 | 그 외 |
+|:--:|:--:|
+| Spring Boot 🌱 | Git / GitHub 🐙 |
 | JavaScript ✨ |  | MySQL 🐬 |
 
 ---
